@@ -1,0 +1,40 @@
+#body {
+    background-color: rgb(0, 0, 0);
+    border: solid 3px rgb(0, 0, 0);
+    text-align: center;
+}
+
+h2 {
+    color: rgb(255, 255, 255);
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 45px;
+}
+
+input {
+    background-color: rgb(0, 0, 0);
+    border: solid 2px aqua;
+    color: orange;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 30px;
+    margin: 25px;
+    padding: 10px;
+    height: 30px;
+    width: 275px;
+    text-align: center;
+}
+
+button {
+    background-color: rgb(0, 0, 0);
+    border: solid 2px rgb(255, 255, 255);
+    color: rgb(255, 255, 255);
+    font-size: 20px;
+    height: 50px;
+    width: 150px;
+    margin-bottom: 35px;
+}
+
+p {
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+}

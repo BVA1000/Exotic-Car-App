@@ -1,0 +1,13 @@
+<div id="body">
+    <h2>Exotic Car List</h2>
+    <ul>
+        <li *ngFor="let car of cars">The {{car.year}} {{car.make}} {{car.model}} is selling for <p id="price">
+                {{car.price}}
+            </p>
+            <a id="buttons" [routerLink]="['/edit', car.id]"><button>EDIT</button></a>
+            <button id="buttons" (click)="deleteCar(car.id)">DELETE</button>
+            <br />
+        </li>
+    </ul>
+    <p>BVA TECHNOLOGIES INC. COPYRIGHT 2021</p>
+</div>

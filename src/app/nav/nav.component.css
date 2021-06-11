@@ -1,0 +1,12 @@
+a {
+    color: aqua;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-right: 10px;
+    padding: 10px;
+}
+
+#nav {
+    background-color: rgb(0, 0, 0);
+    border: solid 3px rgb(0, 0, 0);
+    font-size: 20px;
+}
