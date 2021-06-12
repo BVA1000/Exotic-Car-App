@@ -31,9 +31,9 @@
     {
       "id": 5,
       "make": "Lamborghini",
-      "model": "Diablo SV",
+      "model": "Diablo SV Roadster",
       "year": 1997,
-      "price": "$475,000"
+      "price": "$585,000"
     },
     {
       "make": "Lamborghini",
@@ -104,6 +104,13 @@
       "year": "1988",
       "price": "$550,000",
       "id": 15
+    },
+    {
+      "make": "Mclaren",
+      "model": "Speedtail",
+      "year": "2019",
+      "price": "$2,400,000",
+      "id": 16
     }
   ]
 }
