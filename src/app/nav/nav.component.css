@@ -10,3 +10,7 @@ a {
     border: solid 3px rgb(0, 0, 0);
     font-size: 20px;
 }
+
+a:hover {
+    color: orange;
+}

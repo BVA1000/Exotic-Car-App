@@ -36,6 +36,12 @@ button {
     color: orange;
 }
 
+button:hover {
+    transition: 0.5s;
+    background-color: orange;
+    color: rgb(0, 0, 0);
+}
+
 li {
     color: aqua;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;

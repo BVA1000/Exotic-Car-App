@@ -44,6 +44,12 @@ button {
     margin-bottom: 35px;
 }
 
+button:hover {
+    transition: 0.5s;
+    background-color: aqua;
+    color: rgb(0, 0, 0);
+}
+
 p {
     color: aqua;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
