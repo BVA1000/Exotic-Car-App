@@ -5,9 +5,20 @@
 }
 
 h2 {
-    color: rgb(255, 255, 255);
+    color: orange;
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 45px;
+}
+
+#senna {
+    height: 350px;
+    width: 625px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
 }
 
 input {
@@ -25,8 +36,8 @@ input {
 
 button {
     background-color: rgb(0, 0, 0);
-    border: solid 2px rgb(255, 255, 255);
-    color: rgb(255, 255, 255);
+    border: solid 2px orange;
+    color: aqua;
     font-size: 20px;
     height: 50px;
     width: 150px;
